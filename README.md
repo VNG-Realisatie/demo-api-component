@@ -39,19 +39,6 @@ Referenties
 * `Issues <https://github.com/maykinmedia/demo-api-component/issues>`_
 * `Code <https://github.com/maykinmedia/demo-api-component>`_
 
-
-.. |build-status| image:: http://jenkins.nlx.io/buildStatus/icon?job=demo-api-component-stable
-    :alt: Build status
-    :target: http://jenkins.nlx.io/job/demo-api-component-stable
-
-.. |requirements| image:: https://requires.io/github/maykinmedia/demo-api-component/requirements.svg?branch=master
-     :target: https://requires.io/github/maykinmedia/demo-api-component/requirements/?branch=master
-     :alt: Requirements status
-
-.. _testomgeving: https://ref.tst.vng.cloud/demo-api/
-.. _API specificatie repository: https://github.com/maykinmedia/demo-api
-
-
 Licentie
 
 Copyright © VNG Realisatie 2019
