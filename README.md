@@ -1,7 +1,6 @@
 
 Demo API Component
 
-
  * Version: 2.1.0
  * Source: https://github.com/maykinmedia/demo-api-component
  * Keywords: VNG, VNG-realisatie, demo, api
@@ -13,7 +12,6 @@ Een voorbeeld van een OAS 3.0 API met bijbehorende referentie implementatie.
 Deze repository is hoofdzakelijk voor intern gebruik bij VNG.
 
 De OAS 3.0 specificatie staat in de API specificatie repository
-
 
 Inleiding
 
@@ -27,11 +25,9 @@ technieken zoals RESTful APIs, Docker, OAS 3.0, versiebeheer, etc.
 
 Het component is te testen op de `testomgeving`: https://demo.api-test.nl/api/v2
 
-
 Documentatie
 
 Zie ``INSTALL.rst`` voor installatie instructies en beschikbare commando's.
-
 
 Referenties
 
@@ -45,4 +41,4 @@ Copyright © VNG Realisatie 2019
 
 Licensed under the EUPL_
 
-.. _EUPL: LICENCE.md
+EUPL: LICENCE.md
